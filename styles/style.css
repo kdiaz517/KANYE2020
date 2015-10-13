@@ -1,0 +1,22 @@
+h1:hover {
+  background-color:#E085C2;
+  height: 100%;
+  Width: 650px; 
+}
+
+h1 {
+  color: #0029A3;
+  font-size: 300%;
+}
+
+body {
+  background-image: 
+  
+    url("http://24.media.tumblr.com/e975370d44cec61af8117fb30b94cd9f/tumblr_mqbs5kOvlO1rsjd4ho1_500.gif");
+}
+p:hover {
+  background-color:#660000;
+  height: 100%;
+  Width: 400px; 
+  color: #FFFFFF
+}
